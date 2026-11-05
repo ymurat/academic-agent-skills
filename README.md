@@ -141,6 +141,7 @@ Origin `Original` means written for this repository under MIT. `Original*` means
 | [`llm-evaluation`](skills/llm-evaluation/) | Design and report LLM or agent evaluations. | Original | MIT |
 | [`panel-factory`](skills/panel-factory/) | Choose deliberative panel roles; hand off to council-protocol. | Original | MIT |
 | [`council-protocol`](skills/council-protocol/) | Multi-agent deliberation with synthesis and recorded dissent. | Original | MIT |
+| [`task-graph`](skills/task-graph/) | Split a large research or writing job into gated, resumable steps. | Original (structure adapted from a public prompt by @hanakoxbt) | MIT |
 
 
 ## Limitations and disclaimer

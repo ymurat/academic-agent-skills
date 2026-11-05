@@ -142,6 +142,7 @@ Erişim tarihiyle atıf ver.
 | [`llm-evaluation`](skills/llm-evaluation/) | LLM veya agent değerlendirmesi tasarlar ve raporlar. | Özgün | MIT |
 | [`panel-factory`](skills/panel-factory/) | Müzakere paneli rollerini seçer; council-protocol’e verir. | Özgün | MIT |
 | [`council-protocol`](skills/council-protocol/) | Çoklu agent müzakeresi; sentez ve kayda geçen muhalefet. | Özgün | MIT |
+| [`task-graph`](skills/task-graph/) | Büyük bir araştırma ya da yazım işini kontrol kapılı, sürdürülebilir adımlara böler. | Özgün (yapı @hanakoxbt’nin açık prompt’undan uyarlandı) | MIT |
 
 
 ## Sınırlar ve sorumluluk reddi
