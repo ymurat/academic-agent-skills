@@ -27,6 +27,13 @@ Most of the gain from multi-agent debate comes from independent answers plus maj
 - The moderator checks that every factual claim in the synthesis has a source; unverified claims are labeled.
 - Same-model panels share errors; say so in the output when diversity was low.
 
+## Gates, retries and handoff
+Adapted from a public graph-prompt by @hanakoxbt, itself inspired by Karpathy's autoresearch (https://github.com/karpathy/autoresearch); not written or endorsed by Karpathy.
+- Evidence order at every gate. Accept a member's output only after deterministic checks pass (DOI resolves, numbers recompute, quote matches source), then read the member's own report, and weigh the model's stated confidence last. Record each check as `requirement | pass, fail or unresolved | evidence` with a file path, link or command output; leave missing evidence visible.
+- Mechanical work goes to code. Anything with exactly one correct answer (merging or deduplicating references, sorting, counting, format checks) runs as a script, not as a model call. If the tool is unavailable, name the blocker and do not let a model guess the result.
+- Correction loop. A failed gate sends only that item back to the same member, with the reason, the evidence and the scope ("fix this only"). Cap at three attempts, then escalate to the user with the options. Never weaken a gate to get a pass.
+- Handoff note. For work that spans sessions, keep `progress.md` after each stage: items done, running and blocked; outputs with paths; decisions and why; open failures and uncertainties; next step. A resumed session reads it first and continues from the recorded next step.
+
 ## Synthesis format
 - Consensus: points all members accept, with evidence.
 - Majority: points most accept, with count (e.g. 3/5) and mean confidence.

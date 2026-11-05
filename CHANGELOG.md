@@ -2,6 +2,10 @@
 
 All notable changes to this repository are listed here.
 
+## 1.3.0 (2026-11-05)
+- council-protocol: added "Gates, retries and handoff" (evidence order at gates, mechanical work as code, three-attempt correction loop, progress.md handoff). Adapted from a public prompt by @hanakoxbt inspired by Karpathy's autoresearch.
+- council-protocol: "Kapılar, yeniden deneme ve devir" bölümü eklendi (kapılarda kanıt sırası, mekanik işlerin koda verilmesi, üç denemeli düzeltme döngüsü, progress.md devir notu).
+
 ## [1.2.0] - 2026-11-05
 
 ### Changed
