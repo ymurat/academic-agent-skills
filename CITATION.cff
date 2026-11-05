@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use these skills, please cite this repository.
+type: software
+title: academic-agent-skills
+version: 1.2.0
+date-released: "2026-11-05"
+url: https://github.com/ymurat/academic-agent-skills
+repository-code: https://github.com/ymurat/academic-agent-skills
+license: MIT
+authors:
+  - family-names: Yılmaz
+    given-names: Murat
+    affiliation: Gazi University
+    orcid: "https://orcid.org/0000-0002-2446-3224"
+abstract: >
+  Agent skills (SKILL.md) for academic work in software engineering,
+  AI governance, research ethics and Turkish academia. Original skills
+  are MIT; adapted skills keep their upstream licenses as listed in
+  THIRD_PARTY.md.
+keywords:
+  - agent-skills
+  - academic-writing
+  - software-engineering
+  - research-methods
+  - ai-governance
+  - turkish-academia

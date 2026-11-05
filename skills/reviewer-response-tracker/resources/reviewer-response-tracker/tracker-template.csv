@@ -1,0 +1,1 @@
+round,reviewer,comment_id,comment_quote,type(major/minor/editorial),decision(accept/partial/decline),action,manuscript_location_old,manuscript_location_new,response_text_ref,status(open/done/verified),notes

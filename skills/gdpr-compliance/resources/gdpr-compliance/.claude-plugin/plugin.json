@@ -1,0 +1,21 @@
+{
+  "name": "gdpr-compliance",
+  "description": "GDPR compliance assistant \u2014 code and system audits, privacy notice drafting, DPAs, DPIAs, data flow reviews, and authoritative article-cited Q&A.",
+  "version": "2.1.0",
+  "author": {
+    "name": "Hemant Naik",
+    "email": "hemant.naik@gmail.com"
+  },
+  "homepage": "https://sushegaad.github.io/Claude-Skills-Governance-Risk-and-Compliance/",
+  "repository": "https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
+  "license": "MIT",
+  "keywords": [
+    "gdpr",
+    "privacy",
+    "data-protection",
+    "dpa",
+    "dpia",
+    "eu",
+    "grc"
+  ]
+}
