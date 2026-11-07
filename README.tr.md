@@ -70,6 +70,7 @@ Erişim tarihiyle atıf ver.
 | [`se-stats`](skills/se-stats/) | SE deneyleri ve rastgele algoritma benchmark istatistiği. | Uyarlama | MIT |
 | [`qualitative-methods`](skills/qualitative-methods/) | Nitel ve anket tasarımı: kodlama, görüşme, ölçek. | Uyarlama | MIT |
 | [`empirical-se-standards`](skills/empirical-se-standards/) | Ampirik SE çalışmalarını ACM SIGSOFT standartlarına göre tasarlar/inceler. | Özgün* | MIT |
+| [`prepare-artifacts`](skills/prepare-artifacts/) | Artifact evaluation ve ACM/USENIX tarzı rozetler için kod ve veriyi paketler. | Uyarlama | Apache-2.0 |
 | [`slr-prisma`](skills/slr-prisma/) | PRISMA 2020 ile sistematik literatür taraması. | Uyarlama | MIT |
 | [`concept-brief`](skills/concept-brief/) | Konu veya kavram için kaynaklara dayalı yapılandırılmış brifing. | Özgün* | MIT |
 | [`bib-hygiene`](skills/bib-hygiene/) | BibTeX/Zotero temizler, yinelenenleri ayıklar, DOI ile tamamlar. | Uyarlama | MIT |
@@ -153,15 +154,14 @@ Erişim tarihiyle atıf ver.
 - Üst akış anlık kopyaları güncel olmayabilir. Yeni sürüm için üst akış deposunu kontrol edin.
 - `scripts/` altındaki Python betikleri güvenlik açısından gözden geçirilmiştir; garanti yoktur. Çalıştırmadan önce okuyun.
 - `skills/agile-v/` CC-BY-SA-4.0’tır; yeniden kullanımda Agile V anılmalı ve aynı lisans korunmalıdır.
+- `ai-threat-review` ve `prepare-artifacts` Apache-2.0 uyarlamalarıdır; yeniden kullanımda LICENSE ve NOTICE korunmalıdır.
 - `ai-threat-review` yalnızca savunma içindir: istismar adımı, yük veya saldırı yordamı yoktur.
 
 ## Nasıl atıf verilir
 
 [`CITATION.cff`](CITATION.cff) dosyasına bakın. APA tarzı örnek:
 
-> Yılmaz, M. (2026). academic-agent-skills (Version 1.2.0) [Computer software]. Gazi Üniversitesi. https://github.com/ymurat/academic-agent-skills
-
-Bu depo dosyalarında doğrulanmış ORCID bulunmadığı için ORCID yazılmamıştır.
+> Yılmaz, M. (2026). academic-agent-skills (Version 1.5.0) [Computer software]. Gazi Üniversitesi. https://github.com/ymurat/academic-agent-skills
 
 ## Katkı
 
@@ -169,7 +169,7 @@ Bu depo dosyalarında doğrulanmış ORCID bulunmadığı için ORCID yazılmam�
 
 ## Lisans
 
-Özgün beceriler: MIT (`LICENSE`). Uyarlanan beceriler üst akış lisansını korur; `THIRD_PARTY.md` ve her uyarlanmış klasördeki `LICENSE*` dosyalarına bakın. `skills/agile-v/` CC-BY-SA-4.0. `skills/ai-threat-review/` Apache-2.0 üst akış malzemesi içerir.
+Özgün beceriler: MIT (`LICENSE`). Uyarlanan beceriler üst akış lisansını korur; `THIRD_PARTY.md` ve her uyarlanmış klasördeki `LICENSE*` dosyalarına bakın. `skills/agile-v/` CC-BY-SA-4.0. `skills/ai-threat-review/` ve `skills/prepare-artifacts/` Apache-2.0 üst akış malzemesi içerir.
 
 ## Değişiklik günlüğü
 
