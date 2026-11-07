@@ -69,6 +69,7 @@ Origin `Original` means written for this repository under MIT. `Original*` means
 | [`se-stats`](skills/se-stats/) | Statistics for SE experiments and randomized algorithm benchmarks. | Adapted | MIT |
 | [`qualitative-methods`](skills/qualitative-methods/) | Qualitative and survey design: coding, interviews, scales. | Adapted | MIT |
 | [`empirical-se-standards`](skills/empirical-se-standards/) | Design or review empirical SE studies against ACM SIGSOFT standards. | Original* | MIT |
+| [`prepare-artifacts`](skills/prepare-artifacts/) | Package code and data for artifact evaluation and ACM/USENIX-style badges. | Adapted | Apache-2.0 |
 | [`slr-prisma`](skills/slr-prisma/) | Systematic literature reviews with PRISMA 2020. | Adapted | MIT |
 | [`concept-brief`](skills/concept-brief/) | Source-backed structured brief on a topic or concept. | Original* | MIT |
 | [`bib-hygiene`](skills/bib-hygiene/) | Clean, dedupe and DOI-complete BibTeX or Zotero libraries. | Adapted | MIT |
@@ -152,15 +153,14 @@ Origin `Original` means written for this repository under MIT. `Original*` means
 - Some upstream material was snapshotted and may be out of date. Check the upstream repository for newer versions.
 - Python scripts under `scripts/` were reviewed for safety before inclusion but come without warranty. Read them before running.
 - `skills/agile-v/` is CC-BY-SA-4.0; reuse must credit Agile V and stay under that license.
+- `ai-threat-review` and `prepare-artifacts` are Apache-2.0 adaptations; keep LICENSE and NOTICE with any reuse.
 - `ai-threat-review` is defensive only: no exploit steps, payloads or attack procedures.
 
 ## How to cite
 
 See [`CITATION.cff`](CITATION.cff). Example APA-style cite:
 
-> Yılmaz, M. (2026). academic-agent-skills (Version 1.2.0) [Computer software]. Gazi University. https://github.com/ymurat/academic-agent-skills
-
-No ORCID is listed here because none was verified in this repository's files.
+> Yılmaz, M. (2026). academic-agent-skills (Version 1.5.0) [Computer software]. Gazi University. https://github.com/ymurat/academic-agent-skills
 
 ## Contributing
 
@@ -168,7 +168,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) (English and Türkçe).
 
 ## License
 
-Original skills: MIT (`LICENSE`). Adapted skills keep their upstream license; see `THIRD_PARTY.md` and the `LICENSE*` files inside each adapted skill folder. `skills/agile-v/` is CC-BY-SA-4.0. `skills/ai-threat-review/` includes Apache-2.0 upstream material.
+Original skills: MIT (`LICENSE`). Adapted skills keep their upstream license; see `THIRD_PARTY.md` and the `LICENSE*` files inside each adapted skill folder. `skills/agile-v/` is CC-BY-SA-4.0. `skills/ai-threat-review/` and `skills/prepare-artifacts/` include Apache-2.0 upstream material.
 
 ## Changelog
 

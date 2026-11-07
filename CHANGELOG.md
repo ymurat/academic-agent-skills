@@ -2,6 +2,10 @@
 
 All notable changes to this repository are listed here.
 
+## 1.5.0 (2026-11-07)
+- New skill `prepare-artifacts`: package research code and data for artifact evaluation and badging (Apache-2.0 adaptation). / Yeni beceri `prepare-artifacts`: artifact evaluation ve rozet için araştırma kodu ve verisini paketler (Apache-2.0 uyarlaması).
+- README cite section: removed the leftover sentence that said no ORCID was listed; ORCID is already in the author line and CITATION.cff.
+
 ## 1.4.0 (2026-11-05)
 - New skill `task-graph`: gated, resumable task graphs for research and writing work. / Yeni beceri `task-graph`: araştırma ve yazım işleri için kontrol kapılı, sürdürülebilir iş grafı.
 
