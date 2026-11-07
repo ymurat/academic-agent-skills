@@ -142,6 +142,14 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Copyright: K-Dense Inc.
 - License text: kept in `skills/peer-review/`
 
+## prepare-artifacts
+
+- Upstream: https://github.com/ShaishavMaisuria/research-paper-lifecycle-skills
+- License: Apache-2.0
+- Copyright: 2026 Shaishav Maisuria
+- License text: kept in `skills/prepare-artifacts/`
+- Note: modified derivative of `skills/prepare-artifacts/`; see that folder's NOTICE for the change list. Bundled upstream Python helpers were not included.
+
 ## qualitative-methods
 
 - Upstream: https://github.com/AlterLab-IEU/AlterLab-Academic-Skills
@@ -256,6 +264,8 @@ Bu depo, başka açık kaynak depolardan uyarlanan beceriler içerir. Her kayıt
 `skills/agile-v/` CC-BY-SA-4.0 malzemesi içerir. Bu malzemenin her yeniden kullanımında "Agile V, agile-v.org" anılmalı ve lisans CC-BY-SA-4.0 olarak kalmalıdır.
 
 `skills/ai-threat-review/` Apache-2.0 üst akış malzemesi içerir; NOTICE dosyasına uyun.
+
+`skills/prepare-artifacts/` Apache-2.0 uyarlamasıdır; LICENSE ve NOTICE dosyalarına uyun.
 
 Özgün beceriler (`Original` / `Original*` kök README tablosunda) MIT altındadır. `Original*` satırları, başka MIT veya CC0 malzemeyi kredilendiren veya paketleyen özgün metinlerdir; yukarıdaki İngilizce kayıtlarda belirtilmiştir.
 

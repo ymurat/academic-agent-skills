@@ -1,0 +1,18 @@
+prepare-artifacts (modified derivative)
+
+Copyright 2026 Shaishav Maisuria
+
+This skill is derived from prepare-artifacts in
+https://github.com/ShaishavMaisuria/research-paper-lifecycle-skills
+licensed under the Apache License, Version 2.0.
+
+Changes in this adaptation (2026-11-07):
+- Removed the parent collection's .paper-memory convention, venue YAML
+  profiles, sibling skills and bundled Python helpers.
+- Replaced scripted linting with an agent-run file checklist.
+- Added a claim-to-command matrix, dependency locking and a
+  clean-environment smoke-test plan for software engineering artifact tracks.
+- Added an explicit rule that packaging readiness does not imply a badge
+  will be awarded.
+- Rechecked ACM Artifact Review and Badging Version 1.1 against the official
+  pages on 7 November 2026.
