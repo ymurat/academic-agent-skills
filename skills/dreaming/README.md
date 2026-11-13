@@ -35,7 +35,7 @@ Load this skill when running a nightly or on-demand memory hygiene sweep, review
 
 ### Origin and license
 
-- Origin: Original
+- Origin: Original (inspired by publicly described OpenClaw and Hermes memory-consolidation patterns; no code or text copied)
 - License: MIT
 - Copyright: Murat Yılmaz, Gazi University
 
@@ -77,7 +77,7 @@ Konuşma izlerini dayanıklı hafıza önerilerine dönüştürür (toplama, pua
 
 Gece veya istek üzerine hafıza temizliği taraması yapılırken, hafıza adayları incelenirken, onaylanmış hafıza güncellemeleri uygulanırken veya hafıza değişiklikleri geri alınırken bu beceriyi yükleyin. Tek bir açık "bunu hatırla" isteği için kullanmayın.
 
-### Örnek istemler
+### Örnek istekler
 
 - Rüya gör: son konuşmaları tara ve yeni hafıza bilgileri öner.
 - Hafıza adaylarını incele ve profile ve journal'a ne ekleneceğini göster.
@@ -100,7 +100,7 @@ Gece veya istek üzerine hafıza temizliği taraması yapılırken, hafıza aday
 
 ### Köken ve lisans
 
-- Köken: Özgün
+- Köken: Özgün (kamuya açık OpenClaw ve Hermes hafıza konsolidasyonu desenlerinden esinlenilmiştir; kod veya metin kopyalanmamıştır)
 - Lisans: MIT
 - Telif: Murat Yılmaz, Gazi Üniversitesi
 

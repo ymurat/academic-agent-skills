@@ -66,6 +66,12 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Copyright: AlterLab Creative Technologies Laboratory
 - License text: kept in `skills/docentlik-eligibility/`
 
+## dreaming
+
+- Inspiration (no code or text reused): OpenClaw and Hermes publicly described memory-consolidation patterns
+- Original work by: Murat Yılmaz, Gazi University
+- License: MIT
+
 ## empirical-se-standards
 
 - Original skill. Credits or bundled material: https://github.com/acmsigsoft/EmpiricalStandards
@@ -133,7 +139,7 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Upstream: https://github.com/cobusgreyling/grok-bot-templates
 - License: MIT
 - Copyright: Cobus Greyling
-- License text: kept in `skills/memory-gardening/`
+- License text: kept in `skills/memory-gardening/` as `LICENSE-upstream`
 
 ## nist-ai-rmf
 
@@ -162,7 +168,7 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Upstream: https://github.com/cobusgreyling/grok-bot-templates
 - License: MIT
 - Copyright: Cobus Greyling
-- License text: kept in `skills/promise-log/`
+- License text: kept in `skills/promise-log/` as `LICENSE-upstream`
 
 ## qualitative-methods
 
