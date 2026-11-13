@@ -32,6 +32,10 @@
 - Turkish: TDK spelling, natural academic Turkish; keep established English technical terms (LLM, RAG, PRISMA, ADR) when there is no settled Turkish equivalent.
 - Frontmatter must keep valid `name` and `description` fields; `name` must match the folder name.
 
+### License files in adapted skills
+
+Adapted skills keep the upstream license file inside the skill folder. When one upstream is present, name the file `LICENSE-upstream`. When multiple upstreams or bundled materials exist, name each file `LICENSE-<upstream>` (e.g., `LICENSE-upstream`, `LICENSE-acmsigsoft`). Do not rename existing vendored files during updates; add new ones following this convention.
+
 ### License of contributions
 
 Unless you state otherwise, original contributions are offered under the MIT License for this repository. If your change touches CC-BY-SA-4.0 material under `skills/agile-v/`, that material stays CC-BY-SA-4.0.
@@ -69,6 +73,10 @@ Unless you state otherwise, original contributions are offered under the MIT Lic
 - İngilizce: etken çatı, önce öz.
 - Türkçe: TDK yazımı, doğal akademik Türkçe; yerleşik İngilizce teknik terimler korunabilir.
 - Ön yüzde geçerli `name` ve `description` alanları olmalı; `name` klasör adıyla aynı olmalı.
+
+### Uyarlanmış becerilerde lisans dosyaları
+
+Uyarlanmış beceriler üst akış lisans dosyasını beceri klasöründe tutar. Tek bir üst akış varsa dosya adı `LICENSE-upstream` olmalıdır. Birden fazla üst akış veya paketlenmiş malzeme varsa her dosya `LICENSE-<üst-akış>` şeklinde adlandırılır (örn. `LICENSE-upstream`, `LICENSE-acmsigsoft`). Güncelleme sırasında mevcut dosyaları yeniden adlandırmayın; yeni dosyaları bu kurala göre ekleyin.
 
 ### Katkıların lisansı
 

@@ -34,7 +34,7 @@ Load this skill when the task matches: the user prepares for a thesis defense or
 
 - Origin: Original
 - License: MIT
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and any `LICENSE*` files inside this folder.
+- Original work; no third-party material.
 
 ### Limitations
 
@@ -92,7 +92,7 @@ Tez savunması veya yeterlik sınavına aday veya jüri üyesi olarak hazırlan�
 
 - Köken: Özgün
 - Lisans: MIT
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE*` dosyaları.
+- Özgün çalışma; üçüncü taraf malzeme yok.
 
 ### Sınırlar
 
