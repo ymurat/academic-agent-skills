@@ -7,7 +7,7 @@ description: >-
 ---
 # Turkish academia (umbrella)
 
-Upstream: AlterLab-IEU/AlterLab-Academic-Skills (MIT, snapshot 2026-09-23), at `resources/alterlab/skills/turkish-academia/`. Pick the sub-skill, read its SKILL.md in full, then only the references it needs.
+Upstream: AlterLab-IEU/AlterLab-Academic-Skills (MIT, snapshot 2026-09-23), at `../../common/alterlab/skills/turkish-academia/`. Pick the sub-skill, read its SKILL.md in full, then only the references it needs.
 
 | Task | Sub-skill folder | Notes |
 |---|---|---|

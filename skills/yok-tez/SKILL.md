@@ -6,7 +6,7 @@ description: >-
 ---
 # YÖK Tez search and originality check
 
-Upstream: `resources/alterlab/skills/turkish-academia/alterlab-yok-tez/` (AlterLab, MIT).
+Upstream: `../../common/alterlab/skills/turkish-academia/alterlab-yok-tez/` (AlterLab, MIT).
 
 1. Read its SKILL.md in full for search-craft rules (paired TR+EN keywords, stems, filters).
 2. **Manual use only.** Automated query scripts and unofficial scrapers/MCP clients for tez.yok.gov.tr were removed from this distribution (2026-11-05). Site terms do not clearly authorize automated querying; there is no official public API. Run searches yourself in a browser at https://tez.yok.gov.tr/UlusalTezMerkezi/ (or give the user the query set).

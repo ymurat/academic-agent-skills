@@ -7,7 +7,7 @@ description: >-
 ---
 # Thesis supervisor
 
-Upstream: `resources/alterlab/skills/core/alterlab-thesis-supervisor/SKILL.md` (AlterLab, MIT). Instructions only.
+Upstream: `../../common/alterlab/skills/core/alterlab-thesis-supervisor/SKILL.md` (AlterLab, MIT). Instructions only.
 
 1. Read the upstream SKILL.md in full and follow its stages.
 2. Map AlterLab sibling skills it mentions to what's installed: literature work to slr-prisma and a scholarly search tool such as Semantic Scholar or arXiv, writing to scientific-writing and academic-humanizer, citations to citation-check, ethics to ethics-committee and turkish-academia (Etik Kurul, KVKK), originality to yok-tez, empirical design to empirical-se-standards and qualitative-methods.

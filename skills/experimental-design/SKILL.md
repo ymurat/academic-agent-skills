@@ -1,6 +1,10 @@
 ---
 name: experimental-design
-description: Use when planning a study before data collection: choosing a design, randomization, blocking or stratification, factorial or fractional-factorial DOE, crossover or repeated measures, cluster randomization, Latin squares, run order, or sequential designs.
+description: >-
+  Use when planning a study before data collection - choosing a design,
+  randomization, blocking or stratification, factorial or fractional-factorial
+  DOE, crossover or repeated measures, cluster randomization, Latin squares,
+  run order, or sequential designs.
 license: MIT
 ---
 

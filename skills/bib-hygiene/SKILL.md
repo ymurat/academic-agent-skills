@@ -10,7 +10,7 @@ description: >-
 Keeps reference files correct. `citation-check` verifies that a claim matches its source; this skill fixes the reference records themselves.
 
 ## Sources in `resources/`
-- Upstream (MIT, credit: K-Dense Inc., https://github.com/K-Dense-AI/scientific-agent-skills): `resources/bib-hygiene/upstream/citation-management/` (scripts `doi_to_bibtex.py`, `validate_citations.py`, `format_bibtex.py`, `extract_metadata.py`, `search_openalex.py`) and `resources/bib-hygiene/upstream/pyzotero/` (Zotero Web API notes).
+- Upstream (MIT, credit: K-Dense Inc., https://github.com/K-Dense-AI/scientific-agent-skills): `../../common/citation-management/` (scripts `doi_to_bibtex.py`, `validate_citations.py`, `format_bibtex.py`, `extract_metadata.py`, `search_openalex.py`) and `resources/bib-hygiene/upstream/pyzotero/` (Zotero Web API notes).
 - Safety review: `resources/bib-hygiene/README.md`. Scripts call only scholarly APIs (Crossref, DOI, DataCite, OpenAlex, PubMed, arXiv). Do not use `search_google_scholar.py`.
 
 ## Workflow
