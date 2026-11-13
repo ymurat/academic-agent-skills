@@ -37,7 +37,7 @@ Load this skill after a meeting, email thread, call, or chat where someone commi
 - Origin: Adapted
 - License: MIT
 - Upstream: [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) (`skills/log-promises`), Copyright 2026 Cobus Greyling
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and `LICENSE-UPSTREAM` in this folder.
+- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and `LICENSE-upstream` in this folder.
 
 ### Limitations
 
@@ -73,7 +73,7 @@ Bağlayıcı sözleri (co-author deadlines, reviewer invitations, student superv
 
 Birinin bir şey taahhüt ettiği toplantı, e-posta dizisi, arama veya sohbet sonrasında; sahip "ne söz verdim", "neyi geçiktirdim" veya "kim bana ne borçlu" diye sorduğunda; veya son e-posta ve toplantıları tarayan bir rutinden bu beceriyi yükleyin.
 
-### Örnek istemler
+### Örnek istekler
 
 - Bu e-posta dizisinden sözleri promise log'a çıkar.
 - Neyi geçiktirdim? Promise log'u kontrol et.
@@ -98,7 +98,7 @@ Birinin bir şey taahhüt ettiği toplantı, e-posta dizisi, arama veya sohbet s
 - Köken: Uyarlama
 - Lisans: MIT
 - Üst akış: [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) (`skills/log-promises`), Copyright 2026 Cobus Greyling
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE-UPSTREAM`.
+- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE-upstream`.
 
 ### Sınırlar
 

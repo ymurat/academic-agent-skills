@@ -39,7 +39,7 @@ Load this skill when the owner points at a fact the bot keeps using that is out 
 - Origin: Adapted
 - License: MIT
 - Upstream: [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) (`skills/garden-memory`), Copyright 2026 Cobus Greyling
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and `LICENSE-UPSTREAM` in this folder.
+- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and `LICENSE-upstream` in this folder.
 
 ### Limitations
 
@@ -75,7 +75,7 @@ Sahibin belirlediği belirli bir eskimiş, yanlış veya yinelenen hafıza bilgi
 
 Sahip, botun kullanmaya devam ettiği eskimiş veya yanlış bir bilgiyi işaret ettiğinde, iki hafıza kaydı çeliştiğinde veya yinelendiğinde ya da değişken bir rakam kalıcıymış gibi saklandığında bu beceriyi yükleyin.
 
-### Örnek istemler
+### Örnek istekler
 
 - Bot X yöntemini tercih ettiğimi söylüyor ama ben öyle bir şey demedim. Düzelt.
 - Zaman dilimim hafızada UTC olarak kayıtlı ama ben Europe/Istanbul'dayım. Hafızayı güncelle.
@@ -102,7 +102,7 @@ Sahip, botun kullanmaya devam ettiği eskimiş veya yanlış bir bilgiyi işaret
 - Köken: Uyarlama
 - Lisans: MIT
 - Üst akış: [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) (`skills/garden-memory`), Copyright 2026 Cobus Greyling
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE-UPSTREAM`.
+- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE-upstream`.
 
 ### Sınırlar
 

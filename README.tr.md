@@ -140,11 +140,14 @@ Erişim tarihiyle atıf ver.
 | [`c4-model`](skills/c4-model/) | Mermaid ile C4 mimari diyagramları tasarlar veya günceller. | Uyarlama | MIT |
 | [`re-for-ml`](skills/re-for-ml/) | ML sistemleri için gereksinim (EARS, veri, model belgeleri). | Uyarlama | MIT |
 | [`spi-assessment`](skills/spi-assessment/) | Yazılım süreç değerlendirmesi (ISO/IEC 330xx, ASPICE, CMMI). | Özgün | MIT |
-| [`llm-evaluation`](skills/llm-evaluation/) | LLM veya agent değerlendirmesi tasarlar ve raporlar. | Özgün | MIT |
+| [`llm-evaluation`](skills/llm-evaluation/) | LLM veya ajan değerlendirmesi tasarlar ve raporlar. | Özgün | MIT |
 | [`panel-factory`](skills/panel-factory/) | Müzakere paneli rollerini seçer; council-protocol’e verir. | Özgün | MIT |
-| [`council-protocol`](skills/council-protocol/) | Çoklu agent müzakeresi; sentez ve kayda geçen muhalefet. | Özgün | MIT |
+| [`council-protocol`](skills/council-protocol/) | Çoklu ajan müzakeresi; sentez ve kayda geçen muhalefet. | Özgün | MIT |
 | [`task-graph`](skills/task-graph/) | Büyük bir araştırma ya da yazım işini kontrol kapılı, sürdürülebilir adımlara böler. | Özgün (yapı @hanakoxbt’nin açık prompt’undan uyarlandı) | MIT |
+### Ajan hafızası ve iş akışı
 
+| Beceri | Ne yapar | Köken | Lisans |
+|---|---|---|---|
 | [`dreaming`](skills/dreaming/) | Tür belirtilmiş hafıza depoları için öner-sonra-uygula konsolidasyon (toplama, puanlama, hazırlama, uygulama). | Özgün | MIT |
 | [`promise-log`](skills/promise-log/) | E-posta, toplantı, sohbetten sözleri çıkarır ve kaynaklı günlükte takip eder. | Uyarlama | MIT |
 | [`memory-gardening`](skills/memory-gardening/) | İstek üzerine belirli bir eskimiş, yanlış veya yinelenen hafıza bilgisini düzeltir. | Uyarlama | MIT |

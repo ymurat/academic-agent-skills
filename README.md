@@ -143,6 +143,11 @@ Origin `Original` means written for this repository under MIT. `Original*` means
 | [`panel-factory`](skills/panel-factory/) | Choose deliberative panel roles; hand off to council-protocol. | Original | MIT |
 | [`council-protocol`](skills/council-protocol/) | Multi-agent deliberation with synthesis and recorded dissent. | Original | MIT |
 | [`task-graph`](skills/task-graph/) | Split a large research or writing job into gated, resumable steps. | Original (structure adapted from a public prompt by @hanakoxbt) | MIT |
+
+### Agent memory and workflow
+
+| Skill | What it does | Origin | License |
+|---|---|---|---|
 | [`dreaming`](skills/dreaming/) | Propose-then-apply memory consolidation for typed memory stores (harvest, score, stage, apply). | Original | MIT |
 | [`promise-log`](skills/promise-log/) | Extract and track commitments from emails, meetings, chats into a sourced log. | Adapted | MIT |
 | [`memory-gardening`](skills/memory-gardening/) | Fix a specific stale, wrong, or duplicate memory fact on request. | Adapted | MIT |
