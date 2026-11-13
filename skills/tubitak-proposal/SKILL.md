@@ -6,7 +6,7 @@ description: >-
 ---
 # TÜBİTAK ARDEB proposal
 
-Upstream: `resources/alterlab/skills/turkish-academia/alterlab-tubitak-proposal/` (AlterLab, MIT, snapshot 2026-09).
+Upstream: `../../common/alterlab/skills/turkish-academia/alterlab-tubitak-proposal/` (AlterLab, MIT, snapshot 2026-09).
 
 1. Read its SKILL.md in full, then only the references needed.
 2. Scaffold with `python3 .../alterlab-tubitak-proposal/scripts/scaffold_proposal.py` (offline), outputs to the current working directory or a path the user names.

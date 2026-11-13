@@ -1,0 +1,25 @@
+name: Consistency checks
+
+on:
+  push:
+    branches: [ main, cursor/** ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install PyYAML
+      run: pip install pyyaml
+    
+    - name: Run consistency checks
+      run: python3 scripts/check_consistency.py

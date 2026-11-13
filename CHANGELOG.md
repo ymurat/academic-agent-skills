@@ -6,6 +6,16 @@ All notable changes to this repository are listed here.
 
 - Added Zenodo DOI (concept DOI 10.5281/zenodo.24203674) to README.md and CITATION.cff.
 
+### Housekeeping
+
+- Deduplicated vendored files across skill folders, saving 707 KB by consolidating citation-management and AlterLab resources into `common/` directory.
+- Updated skill references to point to canonical shared resources using relative paths.
+- Slimmed teaching-skills README by removing redundant boilerplate (51 lines, 50% reduction) while preserving all substantive guidance.
+- Added GitHub Actions CI workflow with consistency checks for SKILL.md frontmatter, README catalog integrity, LICENSE file presence, email address policies, em dash usage, and CITATION.cff validation.
+- Fixed missing LICENSE-upstream files in adapted skills to comply with repository licensing conventions.
+- Fixed YAML frontmatter in experimental-design SKILL.md.
+- Removed personal email addresses from vendored scripts (excluded upstream vendor files in resources/).
+
 ## 1.6.1 (2026-11-13)
 Enabled Zenodo archiving; no skill changes. / Zenodo arşivlemesi açıldı; skill değişikliği yok.
 
