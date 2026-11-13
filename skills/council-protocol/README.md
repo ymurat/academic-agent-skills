@@ -32,7 +32,7 @@ Load this skill when the task matches: several agents must deliberate on one que
 
 - Origin: Original
 - License: MIT
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and any `LICENSE*` files inside this folder.
+- Original work; no third-party material.
 
 ### Limitations
 
@@ -82,7 +82,7 @@ Birden fazla agent aynı soruyu tartışır; görüşler tek bir sentezde birle�
 
 - Köken: Özgün
 - Lisans: MIT
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE*` dosyaları.
+- Özgün çalışma; üçüncü taraf malzeme yok.
 
 ### Sınırlar
 

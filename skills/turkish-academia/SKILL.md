@@ -26,7 +26,7 @@ Upstream: AlterLab-IEU/AlterLab-Academic-Skills (MIT, snapshot 2026-09-23), at `
 | TÜBİTAK open science policy, Aperta | `alterlab-aperta` | policy PDF is dated 2016; check for a newer version |
 
 Rules:
-1. Offline helper scripts that remain (APA lint, proposal scaffold, teşvik score, etc.) run as `python3 <sub-skill>/scripts/<script>.py` (or `uv run python ...`), outputs under `/workspace`. Don't run `pip install` unless a step needs it.
+1. Offline helper scripts that remain (APA lint, proposal scaffold, teşvik score, etc.) run as `python3 <sub-skill>/scripts/<script>.py` (or `uv run python ...`), outputs to the current working directory or a path the user names. Don't run `pip install` unless a step needs it.
 2. Do **not** run or reintroduce automated clients against tez.yok.gov.tr, dergipark.org.tr, or trdizin.gov.tr / search.trdizin.gov.tr. Those scripts were removed. Use the official web UI manually and cite the page URL and date checked.
 3. Sub-skills mention AlterLab sibling skills that aren't installed. Map them: citation-mgmt to citation-check, paper-writer to scientific-writing, research-grants to research-grants, research-ethics to ethics-committee, statistical-analysis and venue-templates to your own judgment plus the venue's official guidelines.
 4. Regulations, criteria, program caps and deadlines change. Before stating any rule or number, check the official source (ÜAK, YÖK, TÜBİTAK, ULAKBİM, mevzuat.gov.tr) and give the date checked.

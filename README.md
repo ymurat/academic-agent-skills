@@ -176,6 +176,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) (English and Türkçe).
 
 ## License
 
+The MIT License applies to the original skills in this repository. Adapted skills keep their upstream licenses; see `THIRD_PARTY.md` and the `LICENSE*` files inside each adapted skill folder.
+
 Original skills: MIT (`LICENSE`). Adapted skills keep their upstream license; see `THIRD_PARTY.md` and the `LICENSE*` files inside each adapted skill folder. `skills/agile-v/` is CC-BY-SA-4.0. `skills/ai-threat-review/` and `skills/prepare-artifacts/` include Apache-2.0 upstream material.
 
 ## Changelog

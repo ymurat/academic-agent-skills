@@ -7,7 +7,7 @@
 
 The opinionated guidance (the §0b quality bar, §I composition paradigms,
 §J craft spec, §K original TikZ) lives in
-``.claude/skills/icarus-figures/references/figure-cookbook.md``.
+``references-claude/skills/icarus-figures/references/figure-cookbook.md``.
 """
 from .style import (
     paper_style, save, register_style, STYLE_PATH,

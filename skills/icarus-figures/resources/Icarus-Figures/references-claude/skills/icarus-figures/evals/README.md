@@ -21,7 +21,7 @@ conversion, an advice question, decorative art).
 did not run as-is on Windows + Claude Code 2.1.x: (1) it calls `["claude", …]`
 which Windows `CreateProcess` can't resolve to `claude.cmd` (fix: `shutil.which`);
 (2) it reads the subprocess pipe with `select`, which is socket-only on Windows
-(fix: `communicate`); and (3) it injects the skill as a `.claude/commands/`
+(fix: `communicate`); and (3) it injects the skill as a `references-claude/commands/`
 slash-command, which current Claude Code surfaces as a *user* command rather than
 an autonomously-invokable skill — so the trigger signal never fires and every
 query reads as "no trigger". (1) and (2) are one-line ports; (3) is a

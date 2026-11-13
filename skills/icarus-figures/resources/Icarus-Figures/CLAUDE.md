@@ -13,7 +13,7 @@
 
 Saying "figure / plot / chart / schematic / TikZ / method figure / …" triggers the `icarus-figures` skill.
 
-It first reads `.claude/skills/icarus-figures/references/figure-cookbook.md`:
+It first reads `references-claude/skills/icarus-figures/references/figure-cookbook.md`:
 - §0b quality bar → §0a Figure Contract → §0 style preset → §A archetypes A1–A13
 - hero/method figure: §I composition paradigms P1–P6 → §J craft spec → §K original TikZ
 - §L external template library (optional) · §M Origin disciplined front-end
@@ -31,7 +31,7 @@ It first reads `.claude/skills/icarus-figures/references/figure-cookbook.md`:
 ## 4. Layout
 
 ```
-.claude/skills/icarus-figures/   skill + references (cookbook + caption guide)
+references-claude/skills/icarus-figures/   skill + references (cookbook + caption guide)
 scripts/        _style.py (paper_style + save, three-format) + _smoke_test.py + your figN_*.py / .tex
 data/processed/ input data (figures read from here, never inline)
 outputs/figures/ figure output (figN_<name>.{pdf,png,svg}) + figure_manifest.csv

@@ -24,7 +24,7 @@ The point is not "many chart thumbnails"; it is complex paper figures with hiera
 
 ![Complex method and system panel](examples/gallery_complex_systems.png)
 
-**Framework / method hero figure (original, compilable TikZ)** - the figure a paper opens with: a two-paradigm framework (mechanistic + data-driven, fused at the contribution), with a *real* method object embedded in each lane (a degradation curve crossing its failure threshold, an actual MLP, the fusion's prediction lines) instead of text-in-boxes. One `pdflatex` away, zero compile risk to the main document ([`examples/hero_tikz/framework_hero.tex`](examples/hero_tikz/framework_hero.tex); see [`framework-figures.md`](.claude/skills/icarus-figures/references/framework-figures.md)):
+**Framework / method hero figure (original, compilable TikZ)** - the figure a paper opens with: a two-paradigm framework (mechanistic + data-driven, fused at the contribution), with a *real* method object embedded in each lane (a degradation curve crossing its failure threshold, an actual MLP, the fusion's prediction lines) instead of text-in-boxes. One `pdflatex` away, zero compile risk to the main document ([`examples/hero_tikz/framework_hero.tex`](examples/hero_tikz/framework_hero.tex); see [`framework-figures.md`](references-claude/skills/icarus-figures/references/framework-figures.md)):
 
 ![Two-paradigm framework hero figure in TikZ](examples/hero_tikz/framework_hero.png)
 
@@ -117,7 +117,7 @@ Think of it as: *SciencePlots-style presets, plus the judgment and building bloc
 | `paperfig/` | the installable package: `style.py` (preset) + `archetypes.py` (callable A1–A10 + P5) |
 | `examples/` | runnable galleries (`complex_panels.py`, `showcase_gallery.py`, `coverage_gallery.py`, `domain_showcases.py`, `scientific_gallery.py`, `advanced_gallery.py`, `archetypes_gallery.py`, `paradigms_gallery.py`) + five complete compilable TikZ framework heroes (`hero_tikz/`: P1 pipeline, P2 swimlanes, + T4 graphical-model / data-tensor / matrix-fit families) |
 | `tests/` | pytest smoke tests (every archetype + three-format `save`) |
-| `.claude/skills/icarus-figures/SKILL.md` | the Icarus Figures skill (triggers, hard rules) |
+| `references-claude/skills/icarus-figures/SKILL.md` | the Icarus Figures skill (triggers, hard rules) |
 | `.../references/figure-cookbook.md` | **main reference**: §0b quality bar · §0a contract · §0 style · §A archetypes A1–A13 · §I composition paradigms P1–P6 · §J craft spec · §K original TikZ · §L external template library · §M Origin front-end |
 | `.../references/figure-critique.md` | the **quality gate**: operationalizes the §0b four axes + worked before→after critiques |
 | `.../references/framework-figures.md` | **framework/method-figure deep-dive**: five compilable hero examples + borrowable TikZ techniques + curated resources |
@@ -131,7 +131,7 @@ Think of it as: *SciencePlots-style presets, plus the judgment and building bloc
 
 Reproducible (a script reads data from a file; no inline data > 20 rows; no AI-generated images) · vector three-format (PDF + PNG + SVG; plus TIFF/EPS at journal submission via `save(fig, name, formats=('pdf','tiff'), dpi=600)`) · style preset called once · colorblind- and grayscale-safe · units / N / uncertainty on the figure · pass the §0b four axes + §F reproducibility checklist before "done".
 
-These are **enforced, not just exhorted**: `python scripts/critique.py scripts/figN_<name>.py` static-analyses a figure script against the bar — hard-rule misses (no uncertainty, jet colormap, equal grid, default style, PNG-only) come back as `FAIL` (non-zero exit, so it gates CI), and the judgment-half (does the figure argue a mechanism? does one hero panel dominate? B&W-legible?) prints as prompts you answer by hand. See [`references/figure-critique.md`](.claude/skills/icarus-figures/references/figure-critique.md).
+These are **enforced, not just exhorted**: `python scripts/critique.py scripts/figN_<name>.py` static-analyses a figure script against the bar — hard-rule misses (no uncertainty, jet colormap, equal grid, default style, PNG-only) come back as `FAIL` (non-zero exit, so it gates CI), and the judgment-half (does the figure argue a mechanism? does one hero panel dominate? B&W-legible?) prints as prompts you answer by hand. See [`references/figure-critique.md`](references-claude/skills/icarus-figures/references/figure-critique.md).
 
 ## Requirements
 

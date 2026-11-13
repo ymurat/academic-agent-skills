@@ -22,6 +22,9 @@ work/
 .claude/
 .cursor/
 
+# Vendored upstream metadata (kept out of future vendored copies)
+skills/**/resources/**/.github/
+
 # Build / logs
 *.log
 dist/

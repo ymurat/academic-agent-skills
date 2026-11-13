@@ -1,5 +1,7 @@
 # Third-party material
 
+The MIT License applies to the original skills in this repository. Adapted skills and vendored material keep their upstream licenses as documented below.
+
 This repository contains skills adapted from other open-source repositories. Each entry lists the upstream source, its license and its copyright holder. The upstream license file is kept inside the skill folder. Files under `skills/<name>/resources/` that came from upstream keep their original license, not the MIT license of this repository.
 
 `skills/agile-v/` contains material under CC-BY-SA-4.0. Any reuse of that material must credit "Agile V, agile-v.org" and stay under CC-BY-SA-4.0.
@@ -17,6 +19,13 @@ This repository contains skills adapted from other open-source repositories. Eac
 - License: CC-BY-SA-4.0
 - Copyright: Agile V (agile-v.org)
 - License text: kept in `skills/agile-v/`
+
+## ai-governance-frameworks
+
+- Original skill. Bundled material: Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225), Vilnius, 5 September 2024
+- Source: https://rm.coe.int/1680afae3c and https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence
+- License: Official treaty text in the public domain; reproduction permitted with attribution per Council of Europe copyright terms (https://www.coe.int/en/web/portal/copyright-licensing-permissions)
+- Attribution: Council of Europe, 2024
 
 ## ai-threat-review
 
@@ -44,6 +53,12 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Original skill. Credits or bundled material: https://github.com/chianglianglin/novel-hint
 - License of that material: MIT
 - Copyright: Jackson Peralta
+
+## council-protocol
+
+- Inspiration (no code or text reused): @hanakoxbt public prompt inspired by Karpathy-style autoresearch structure
+- Original work by: Murat Yılmaz, Gazi University
+- License: MIT
 
 ## c4-model
 
@@ -77,6 +92,7 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Original skill. Credits or bundled material: https://github.com/acmsigsoft/EmpiricalStandards
 - License of that material: CC0-1.0
 - Copyright: ACM SIGSOFT
+- License text: kept in `skills/empirical-se-standards/` as `LICENSE-upstream`
 
 ## ethics-committee
 
@@ -218,6 +234,12 @@ This repository contains skills adapted from other open-source repositories. Eac
 - License: MIT
 - Copyright: K-Dense Inc.
 - License text: kept in `skills/statistical-power/`
+
+## task-graph
+
+- Inspiration (no code or text reused): @hanakoxbt public prompt inspired by Karpathy-style autoresearch structure
+- Original work by: Murat Yılmaz, Gazi University
+- License: MIT
 
 ## talk-prep-2
 
