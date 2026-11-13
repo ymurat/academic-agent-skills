@@ -2,6 +2,9 @@
 
 All notable changes to this repository are listed here.
 
+## 1.6.1 (2026-11-13)
+Enabled Zenodo archiving; no skill changes. / Zenodo arşivlemesi açıldı; skill değişikliği yok.
+
 ## 1.6.0 (2026-11-13)
 - New skill `dreaming`: propose-then-apply memory consolidation for agents with typed memory stores (profile, journal, shared stores) or MEMORY.md sections. Harvest, score, reflect, stage, apply workflow. Original work. / Yeni beceri `dreaming`: tür belirtilmiş hafıza depoları veya MEMORY.md bölümleri olan agent'lar için öner-sonra-uygula hafıza konsolidasyonu. Toplama, puanlama, düşünme, hazırlama, uygulama. Özgün çalışma.
 - New skill `promise-log`: extract and track commitments from emails, meeting notes, chats or transcripts into a sourced log. Adapted from cobusgreyling/grok-bot-templates (MIT). / Yeni beceri `promise-log`: e-posta, toplantı notları, sohbet veya kayıtlardan sözleri çıkarır ve kaynaklı günlükte takip eder. cobusgreyling/grok-bot-templates'ten uyarlama (MIT).

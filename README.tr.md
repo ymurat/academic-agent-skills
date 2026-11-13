@@ -167,7 +167,7 @@ Erişim tarihiyle atıf ver.
 
 [`CITATION.cff`](CITATION.cff) dosyasına bakın. APA tarzı örnek:
 
-> Yılmaz, M. (2026). academic-agent-skills (Version 1.6.0) [Computer software]. Gazi Üniversitesi. https://github.com/ymurat/academic-agent-skills
+> Yılmaz, M. (2026). academic-agent-skills (Version 1.6.1) [Computer software]. Gazi Üniversitesi. https://github.com/ymurat/academic-agent-skills
 
 ## Katkı
 
