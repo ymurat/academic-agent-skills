@@ -128,6 +128,13 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Copyright: Hemant Naik
 - License text: kept in `skills/iso42001/`
 
+## memory-gardening
+
+- Upstream: https://github.com/cobusgreyling/grok-bot-templates
+- License: MIT
+- Copyright: Cobus Greyling
+- License text: kept in `skills/memory-gardening/`
+
 ## nist-ai-rmf
 
 - Upstream: https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance
@@ -149,6 +156,13 @@ This repository contains skills adapted from other open-source repositories. Eac
 - Copyright: 2026 Shaishav Maisuria
 - License text: kept in `skills/prepare-artifacts/`
 - Note: modified derivative of `skills/prepare-artifacts/`; see that folder's NOTICE for the change list. Bundled upstream Python helpers were not included.
+
+## promise-log
+
+- Upstream: https://github.com/cobusgreyling/grok-bot-templates
+- License: MIT
+- Copyright: Cobus Greyling
+- License text: kept in `skills/promise-log/`
 
 ## qualitative-methods
 

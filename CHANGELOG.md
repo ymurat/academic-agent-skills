@@ -2,6 +2,11 @@
 
 All notable changes to this repository are listed here.
 
+## 1.6.0 (2026-11-13)
+- New skill `dreaming`: propose-then-apply memory consolidation for agents with typed memory stores (profile, journal, shared stores) or MEMORY.md sections. Harvest, score, reflect, stage, apply workflow. Original work. / Yeni beceri `dreaming`: tür belirtilmiş hafıza depoları veya MEMORY.md bölümleri olan agent'lar için öner-sonra-uygula hafıza konsolidasyonu. Toplama, puanlama, düşünme, hazırlama, uygulama. Özgün çalışma.
+- New skill `promise-log`: extract and track commitments from emails, meeting notes, chats or transcripts into a sourced log. Adapted from cobusgreyling/grok-bot-templates (MIT). / Yeni beceri `promise-log`: e-posta, toplantı notları, sohbet veya kayıtlardan sözleri çıkarır ve kaynaklı günlükte takip eder. cobusgreyling/grok-bot-templates'ten uyarlama (MIT).
+- New skill `memory-gardening`: fix a specific stale, wrong, or duplicate memory fact on request. Complements dreaming. Adapted from cobusgreyling/grok-bot-templates (MIT). / Yeni beceri `memory-gardening`: istek üzerine belirli bir eskimiş, yanlış veya yinelenen hafıza bilgisini düzeltir. Dreaming'i tamamlar. cobusgreyling/grok-bot-templates'ten uyarlama (MIT).
+
 ## 1.5.0 (2026-11-07)
 - New skill `prepare-artifacts`: package research code and data for artifact evaluation and badging (Apache-2.0 adaptation). / Yeni beceri `prepare-artifacts`: artifact evaluation ve rozet için araştırma kodu ve verisini paketler (Apache-2.0 uyarlaması).
 - README cite section: removed the leftover sentence that said no ORCID was listed; ORCID is already in the author line and CITATION.cff.

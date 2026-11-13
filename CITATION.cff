@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: If you use these skills, please cite this repository.
 type: software
 title: academic-agent-skills
-version: 1.5.0
-date-released: "2026-11-07"
+version: 1.6.0
+date-released: "2026-11-13"
 url: https://github.com/ymurat/academic-agent-skills
 repository-code: https://github.com/ymurat/academic-agent-skills
 license: MIT

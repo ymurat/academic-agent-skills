@@ -145,6 +145,9 @@ Erişim tarihiyle atıf ver.
 | [`council-protocol`](skills/council-protocol/) | Çoklu agent müzakeresi; sentez ve kayda geçen muhalefet. | Özgün | MIT |
 | [`task-graph`](skills/task-graph/) | Büyük bir araştırma ya da yazım işini kontrol kapılı, sürdürülebilir adımlara böler. | Özgün (yapı @hanakoxbt’nin açık prompt’undan uyarlandı) | MIT |
 
+| [`dreaming`](skills/dreaming/) | Tür belirtilmiş hafıza depoları için öner-sonra-uygula konsolidasyon (toplama, puanlama, hazırlama, uygulama). | Özgün | MIT |
+| [`promise-log`](skills/promise-log/) | E-posta, toplantı, sohbetten sözleri çıkarır ve kaynaklı günlükte takip eder. | Uyarlama | MIT |
+| [`memory-gardening`](skills/memory-gardening/) | İstek üzerine belirli bir eskimiş, yanlış veya yinelenen hafıza bilgisini düzeltir. | Uyarlama | MIT |
 
 ## Sınırlar ve sorumluluk reddi
 
@@ -161,7 +164,7 @@ Erişim tarihiyle atıf ver.
 
 [`CITATION.cff`](CITATION.cff) dosyasına bakın. APA tarzı örnek:
 
-> Yılmaz, M. (2026). academic-agent-skills (Version 1.5.0) [Computer software]. Gazi Üniversitesi. https://github.com/ymurat/academic-agent-skills
+> Yılmaz, M. (2026). academic-agent-skills (Version 1.6.0) [Computer software]. Gazi Üniversitesi. https://github.com/ymurat/academic-agent-skills
 
 ## Katkı
 
