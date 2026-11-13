@@ -2,6 +2,10 @@
 
 All notable changes to this repository are listed here.
 
+## Unreleased
+
+- Added Zenodo DOI (concept DOI 10.5281/zenodo.24203674) to README.md and CITATION.cff.
+
 ## 1.6.1 (2026-11-13)
 Enabled Zenodo archiving; no skill changes. / Zenodo arşivlemesi açıldı; skill değişikliği yok.
 

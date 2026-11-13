@@ -6,6 +6,8 @@ Agent skills for academic work in software engineering, AI governance, research 
 
 Maintainer: Prof. Murat Yılmaz, Gazi University ([@ymurat](https://github.com/ymurat); [ORCID](https://orcid.org/0000-0002-2446-3224)).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24203674.svg)](https://doi.org/10.5281/zenodo.24203674)
+
 ## Purpose
 
 Give researchers, supervisors, lecturers and graduate students reusable, checkable instructions so an AI agent can help with literature work, study design, statistics, writing, peer review, grant proposals, teaching, AI governance and data protection without inventing sources or legal conclusions.
@@ -168,7 +170,7 @@ Origin `Original` means written for this repository under MIT. `Original*` means
 
 See [`CITATION.cff`](CITATION.cff). Example APA-style cite:
 
-> Yılmaz, M. (2026). academic-agent-skills (Version 1.6.1) [Computer software]. Gazi University. https://github.com/ymurat/academic-agent-skills
+> Yılmaz, M. (2026). academic-agent-skills (Version 1.6.1) [Computer software]. Gazi University. https://github.com/ymurat/academic-agent-skills https://doi.org/10.5281/zenodo.24203674
 
 ## Contributing
 
