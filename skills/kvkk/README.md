@@ -33,7 +33,7 @@ Load this skill when the task matches: a task involves personal data processed i
 
 - Origin: Original
 - License: MIT
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and any `LICENSE*` files inside this folder.
+- Original work; no third-party material.
 
 ### Limitations
 
@@ -83,7 +83,7 @@ Türkiye’de veya Türkiye’deki kişiler hakkında işlenen kişisel veri iş
 
 - Köken: Özgün
 - Lisans: MIT
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE*` dosyaları.
+- Özgün çalışma; üçüncü taraf malzeme yok.
 
 ### Sınırlar
 

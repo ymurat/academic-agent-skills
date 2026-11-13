@@ -32,7 +32,7 @@ Load this skill when the task matches: a task (paper review, research question, 
 
 - Origin: Original
 - License: MIT
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and any `LICENSE*` files inside this folder.
+- Original work; no third-party material.
 
 ### Limitations
 
@@ -86,7 +86,7 @@ Bir iş (makale incelemesi, araştırma sorusu, hukuk veya politika taslağı) i
 
 - Köken: Özgün
 - Lisans: MIT
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE*` dosyaları.
+- Özgün çalışma; üçüncü taraf malzeme yok.
 
 ### Sınırlar
 

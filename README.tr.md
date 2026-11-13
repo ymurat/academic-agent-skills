@@ -175,6 +175,8 @@ Erişim tarihiyle atıf ver.
 
 ## Lisans
 
+MIT lisansı bu depodaki özgün beceriler için geçerlidir. Uyarlanan beceriler üst akış lisanslarını korur; `THIRD_PARTY.md` ve her uyarlanmış klasördeki `LICENSE*` dosyalarına bakın.
+
 Özgün beceriler: MIT (`LICENSE`). Uyarlanan beceriler üst akış lisansını korur; `THIRD_PARTY.md` ve her uyarlanmış klasördeki `LICENSE*` dosyalarına bakın. `skills/agile-v/` CC-BY-SA-4.0. `skills/ai-threat-review/` ve `skills/prepare-artifacts/` Apache-2.0 üst akış malzemesi içerir.
 
 ## Değişiklik günlüğü

@@ -33,7 +33,7 @@ Load this skill when the task matches: an academic needs to write, check or plac
 
 - Origin: Original
 - License: MIT
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and any `LICENSE*` files inside this folder.
+- Original work; no third-party material.
 
 ### Limitations
 
@@ -81,7 +81,7 @@ Makale, tez, proje önerisi veya hakem raporu için yapay zekâ kullanım bildir
 
 - Köken: Özgün
 - Lisans: MIT
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE*` dosyaları.
+- Özgün çalışma; üçüncü taraf malzeme yok.
 
 ### Sınırlar
 

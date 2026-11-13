@@ -35,7 +35,7 @@ Load this skill when the task matches: the user gives a topic or concept and wan
 
 - Origin: Original (design credits: dgagf111/multi-perspective-research, guicortei/feynman-technique, both MIT)
 - License: MIT
-- Details: see [`THIRD_PARTY.md`](../../THIRD_PARTY.md) and any `LICENSE*` files inside this folder.
+- Original work; no third-party material.
 
 ### Limitations
 
@@ -91,7 +91,7 @@ Bir konu veya kavram için kaynaklara dayalı yapılandırılmış özet üretir
 
 - Köken: Özgün (tasarım kredisi: dgagf111/multi-perspective-research, guicortei/feynman-technique, ikisi de MIT)
 - Lisans: MIT
-- Ayrıntı: [`THIRD_PARTY.md`](../../THIRD_PARTY.md) ve bu klasördeki `LICENSE*` dosyaları.
+- Özgün çalışma; üçüncü taraf malzeme yok.
 
 ### Sınırlar
 
