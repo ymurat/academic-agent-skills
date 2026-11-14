@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: If you use these skills, please cite this repository.
 type: software
 title: academic-agent-skills
-version: 1.6.1
-date-released: "2026-11-13"
+version: 1.6.2
+date-released: "2026-11-14"
 doi: 10.5281/zenodo.24203674
 url: https://github.com/ymurat/academic-agent-skills
 repository-code: https://github.com/ymurat/academic-agent-skills
@@ -29,6 +29,3 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.24203674
     description: Concept DOI (all versions)
-  - type: doi
-    value: 10.5281/zenodo.24203675
-    description: Version 1.6.1

@@ -170,7 +170,7 @@ Origin `Original` means written for this repository under MIT. `Original*` means
 
 See [`CITATION.cff`](CITATION.cff). Example APA-style cite:
 
-> Yılmaz, M. (2026). academic-agent-skills (Version 1.6.1) [Computer software]. Gazi University. https://github.com/ymurat/academic-agent-skills https://doi.org/10.5281/zenodo.24203674
+> Yılmaz, M. (2026). academic-agent-skills (Version 1.6.2) [Computer software]. Gazi University. https://github.com/ymurat/academic-agent-skills https://doi.org/10.5281/zenodo.24203674
 
 ## Contributing
 
